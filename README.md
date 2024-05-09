@@ -44,7 +44,7 @@ make anvil
 ```
 
 ## Deploy
-``'
+```
 make deploy
 ```
 ## Testing
